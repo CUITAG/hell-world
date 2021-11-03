@@ -1,2 +1,2 @@
-# CLock 
-Analog clock made with JS 
+# Analog CLock 
+Made with  CSS & JS 
