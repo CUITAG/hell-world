@@ -1,2 +1,2 @@
-# hell-world
-A new Repositry
+# CLock 
+Analog clock made with JS 
